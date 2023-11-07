@@ -7,6 +7,14 @@ A continuación vamos a [apuntes fol](fol/apuntes.md)
 ##### cinc
 ###### sis
 
+## LLISTES
+1. comprar sabó
+2. pa
+    1. un sub element
+    2. un altre
+3. carn
+4. peix
+
 > #### The quarterly results look great!
 >
 > - Revenue was off the chart.
