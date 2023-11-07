@@ -1,7 +1,7 @@
 # guillem-esliceu
 Esto es un **texto en negrita** y esto un *texto en cursiva*
 ## dos
-A continuación vamos a [crear un enlace](https://tutorialmarkdown.com)
+A continuación vamos a [apuntes fol](fol/apuntes.md)
 ### tres
 #### quatre
 ##### cinc
