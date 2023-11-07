@@ -2,7 +2,7 @@
 Esto es un **texto en negrita** y esto un *texto en cursiva*
 ## dos
 A continuación vamos a [apuntes fol](fol/apuntes.md)
-### tres
+### tercer apartat
 #### quatre
 ##### cinc
 ###### sis
